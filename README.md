@@ -8,7 +8,7 @@ This Zimlet eliminated to need to save the PDF attachment locally, and offers a 
 
 ## Screenshots
 
-![](screenshots/screenshots/zimbra-desktop-print-preview-attachment-animated.gif)
+![](screenshots/zimbra-desktop-print-preview-attachment-animated.gif)
 ![](screenshots/1-attachment-menu.png)
 ![](screenshots/2-attachment-menu-preview.png)
 ![](screenshots/3-preview.png)
