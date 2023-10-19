@@ -1,0 +1,10 @@
+{
+  "zimlet": {
+    "label": "Print preview attachment",
+    "description": "Displays a link to show a print preview for attachments"
+  },
+	"zimbra-zimlet-print-preview-attachment": {
+		"menuItem": "Print preview attachment"
+		}
+}
+
