@@ -25,6 +25,6 @@
     "extends": "eslint-config-synacor"
   },
   "devDependencies": {
-    "@zimbra/zimlet-cli": "^14.3.0"
+    "@zimbra/zimlet-cli": "^16.0.0"
   }
 }
